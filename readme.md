@@ -1,5 +1,5 @@
-JinsoRaj.com
-======================
+[jinsoraj.now.sh](https://jinsoraj.now.sh) || [jinsoraj.tk](http://jinsoraj.tk)
+===============================
 
 Github repo for Jinso's Website
 
